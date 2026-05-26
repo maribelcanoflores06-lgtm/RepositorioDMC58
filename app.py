@@ -12,11 +12,11 @@ if sesion=="Sesion 1":
   st.write("Bienvenidos la sesion 1")
 st.image("COLORES.png")
 
-  elif sesion=="Sesion 2":
+elif sesion=="Sesion 2":
   st.write("Bienvenidos a la sesion 2")
-  elif sesion=="Sesion 3":
+elif sesion=="Sesion 3":
   st.write("Bienvenido a la sesion 3 ")
-  else:
+else:
   st.write("Bienvenido a la sesion 4")
   
            
