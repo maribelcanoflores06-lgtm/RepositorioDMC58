@@ -8,7 +8,7 @@ st.write("elaborado por Maribel Cano")
 
 sesion=st.sidebar.selectbox("Seleccione una sesión",["Sesion 1","Sesion 2","Sesion 3","Sesion 4"])
 
-if session=="Sesion 1":
+if sesion=="Sesion 1":
   st.write("Bienvenidos la sesion 1")
 
 elif sesion=="Sesion 2":
