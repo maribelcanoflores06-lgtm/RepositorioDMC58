@@ -8,3 +8,15 @@ st.write("elaborado por Maribel Cano")
 
 sesion=st.sidebar.selectbox("Seleccione una sesión",["Sesion 1","Sesion 2","sesion 3","Sesion 4"])
 
+if session=="Sesion 1":
+  st.write("Bienvenidos la sesion 1")
+
+elif sesion=="Sesion 2":
+  st.write("Bienvenidos a la sesion 2")
+elif sesion=="Sesion 3":
+  st.write("Bienvenido a la sesion 3 ")
+  else
+  st.write("Bienvenido a la sesion 4")
+  
+           
+
